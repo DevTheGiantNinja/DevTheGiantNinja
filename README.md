@@ -1,5 +1,3 @@
-Real Name: Yasser
-
 skills:
 javascript
 html5
